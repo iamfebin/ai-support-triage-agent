@@ -2,7 +2,8 @@
 
 A highly resilient, cost-effective, and fully local RAG-powered AI agent designed to triage support tickets across three product ecosystems: **HackerRank**, **Claude**, and **Visa**. 
 
-This project was built as a solution for the **HackerRank Orchestrate** challenge. It utilizes local semantic search for zero-cost document retrieval, implements a high-availability fallback loop with the Gemini API using Pydantic structured outputs, and checkpoints processing in real-time to guarantee idempotent execution.
+This project was built as a solution for the [**HackerRank Orchestrate**](https://github.com/interviewstreet/hackerrank-orchestrate-may26
+) challenge. It utilizes local semantic search for zero-cost document retrieval, implements a high-availability fallback loop with the Gemini API using Pydantic structured outputs, and checkpoints processing in real-time to guarantee idempotent execution.
 
 ---
 
